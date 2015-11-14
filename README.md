@@ -64,5 +64,15 @@ https://github.com/awaran/SBPExample
 ```
 
 
+## Extra
+- This is my first open source project and would like to colaborate with others.  Please email me if you have any comments or questions at waran.arjay@gmail.com.  
+- P.S. I'm also looking for work in the Bay Area, San Diego or around New York.
 
-This is my first open source project and would like to colaborate with others.  Please email me if you have any comments or questions at waran.arjay@gmail.com.  P.S. I'm also looking for work in the Bay Area, San Diego or around New York.
+
+## Author
+
+Arjay, waran.arjay@gmail.com
+
+## License
+
+SBP is available under the MIT license. See the LICENSE file for more info.
