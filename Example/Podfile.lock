@@ -1,0 +1,14 @@
+PODS:
+  - SBP (0.1.0)
+
+DEPENDENCIES:
+  - SBP (from `../`)
+
+EXTERNAL SOURCES:
+  SBP:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SBP: d02c8a57cb12e7123d076f4e3062308b12162fd3
+
+COCOAPODS: 0.39.0

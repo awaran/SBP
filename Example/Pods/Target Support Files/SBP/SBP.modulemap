@@ -1,0 +1,6 @@
+framework module SBP {
+  umbrella header "SBP-umbrella.h"
+
+  export *
+  module * { export * }
+}
