@@ -22,6 +22,8 @@ pod "SBP"
 ```
 
 ### Tutorial Youtube Videos can be found here
+https://www.youtube.com/watch?v=vc0KjFlMPeQ
+https://www.youtube.com/watch?v=8KVKXlh6sKI
 
 ### Example github project
 https://github.com/awaran/SBPExample
@@ -65,4 +67,4 @@ https://github.com/awaran/SBPExample
 
 
 
-This is my first open source project and would like to colaborate with others.  Please email me if you have any comments or questions at waran.arjay@gmail.com.  P.S. I'm also looking for work in the Bay Area, San Diego or around New York.
+This is my first open source project and would like to colaborate with others.  Please email me if you have any comments or questions at waran.arjay@gmail.com. 
