@@ -22,8 +22,8 @@ pod "SBP"
 ```
 
 ### Tutorial Youtube Videos can be found here
-https://www.youtube.com/watch?v=vc0KjFlMPeQ
-https://www.youtube.com/watch?v=8KVKXlh6sKI
+-https://www.youtube.com/watch?v=vc0KjFlMPeQ
+-https://www.youtube.com/watch?v=8KVKXlh6sKI
 
 ### Example github project
 https://github.com/awaran/SBPExample
